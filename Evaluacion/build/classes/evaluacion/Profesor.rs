@@ -1,0 +1,2 @@
+evaluacion.Tipo
+evaluacion.Profesor
